@@ -2,4 +2,4 @@
 
 > A Vue.js project
 
-https://gcbeen.github.io/vue_mall_pro/index.html
+https://gcbeen.github.io/vue_mall_pro/dist/index.html
